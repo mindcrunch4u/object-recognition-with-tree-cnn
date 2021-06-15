@@ -55,8 +55,12 @@ Check `environment.yml` for conda configuration.
    python3 /path/to/API/main.py
    ```
 
-6. spin up the server with
+6. spin up the server
 
+   Edit file `/path/to/API/engine/ocr.py`, change the OCR API to your provider with your key.
+   
+   
+   
    ```
    python3 /path/to/API/main.py
    ```
