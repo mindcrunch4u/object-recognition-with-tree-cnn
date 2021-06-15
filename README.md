@@ -1,5 +1,13 @@
+# Not My Idea
+
+I read about tree-CNN here:
+
+https://www.sciencedirect.com/science/article/abs/pii/S0893608019302710
+
+Very interesting structure for incremental learning, and I wrote my implementation for training with a prediction server. Therefore, big Thank-You to the authors of tree-CNN. 
 
 # Environment
+
 ```
 numpy==1.19.5
 ```
